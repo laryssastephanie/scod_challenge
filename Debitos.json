@@ -1,0 +1,26 @@
+[
+    {
+        "valor": "0",
+        "ano": "2005",
+        "parcela": "Única",
+        "vencimento": "26/01/2005"
+    },
+    {
+        "valor": "R$ 120,45",
+        "ano": "2020",
+        "parcela": "3",
+        "vencimento": "23/09/2020"
+    },
+    {
+        "valor": "R$ 315,64",
+        "ano": "2021",
+        "parcela": "1",
+        "vencimento": "23/01/2021"
+    },
+    {
+        "valor": "R$ 313,08",
+        "ano": "2021",
+        "parcela": "2",
+        "vencimento": "23/02/2021"
+    }
+]
